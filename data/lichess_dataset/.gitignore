@@ -1,0 +1,5 @@
+lichess_db_eval.jsonl.zst
+lichess_db_eval.jsonl
+lichess_db_eval_only_fen_and_deepest_best_line.jsonl
+lichess_db_eval_fen_and_win_probability.jsonl
+lichess_db_eval_fen_and_win_probability_split/
